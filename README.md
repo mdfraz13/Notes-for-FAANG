@@ -7,6 +7,14 @@
  
  These questions are classical problems that are most frequently asked by the tech giants in technical interviews and are not related to hard core competitive coding.
  `All the code provided inside the repository is purely original and completely my own.`
+ 
+ ### Plan :
+ 
+ - https://www.alimirio.com/posts/read-this-before-you-start-solving-problems-on-leetcode-prep-work
+ 
+ 
+ --------------------------------------------------------------------
+ 
 
 ### [DataStructures & Algorithm Problems](https://github.com/neerazz/FAANG/tree/master/Algorithms)
 
@@ -57,7 +65,7 @@
 >  - [Design Hit Counter](https://github.com/neerazz/faang-system-design/blob/master/Neeraj/DesignHitCounter.java)
 
 ### [Important Links](https://github.com/neerazz/FAANG/blob/master/ImportantLinks.md#hacking-software-engineering-interviews)
-
+- https://github.com/neerazz/FAANG/blob/master/Algorithms/Top_LeetCode_Questions_By_Topic.md#datastructures--algorithm-problems
  
 ### How to contribute? 
 
