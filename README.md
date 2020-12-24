@@ -99,6 +99,7 @@
 ### [Important Links](https://github.com/neerazz/FAANG/blob/master/ImportantLinks.md#hacking-software-engineering-interviews)
 - https://github.com/neerazz/FAANG/blob/master/Algorithms/Top_LeetCode_Questions_By_Topic.md#datastructures--algorithm-problems
 - https://github.com/vaquarkhan/leetcode_company_wise_questions
+- https://github.com/vaquarkhan/system-design-primer/blob/master/solutions/system_design/mint/README.md
  
 ### How to contribute? 
 
