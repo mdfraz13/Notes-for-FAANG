@@ -134,7 +134,20 @@
 
 ### Leadership
 
-
+- https://www.youtube.com/watch?v=2Cr3-et4xkI
+- https://www.youtube.com/watch?v=eIMR82oO2Dc
+- https://www.youtube.com/watch?v=_osKgFwKoDQ
+- https://www.youtube.com/watch?v=auojtsHPIM8
+- https://www.youtube.com/watch?v=auojtsHPIM8
+- https://www.youtube.com/watch?v=3DW_U6W8yNs
+- https://www.youtube.com/watch?v=rn7JItdkRPE
+- https://www.youtube.com/watch?v=XZackwz_Shk
+- https://www.youtube.com/watch?v=p6r4cvr_CEo
+- https://www.youtube.com/watch?v=2HYBPKDZda0
+- https://www.youtube.com/watch?v=Ta9tCwcMbXs
+- https://www.youtube.com/watch?v=2P3kLlUxBPE
+- https://www.youtube.com/watch?v=8V2V_2wzBM0
+- https://www.youtube.com/watch?v=mjFZSQWe2E8
 
  
 ### How to contribute? 
