@@ -101,6 +101,9 @@
 - https://github.com/vaquarkhan/leetcode_company_wise_questions
 - https://github.com/vaquarkhan/system-design-primer/blob/master/solutions/system_design/mint/README.md
 - https://github.com/vaquarkhan/data-structures-algorithms-notes
+- https://github.com/mister0/How-to-prepare-for-google-interview-SWE-SRE
+- https://github.com/kdeldycke/awesome-engineering-team-management
+- https://github.com/ryanburgess/engineer-manager
 
  
 ### How to contribute? 
