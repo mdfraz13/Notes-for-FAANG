@@ -111,6 +111,18 @@
 - https://klauskomenda.net/blog/2020/06/09/how-to-prepare-for-a-software-engineering-manager-interview/
 - https://github.com/jwasham/coding-interview-university
 
+### How to use the STAR method to answer interview questions
+
+- https://www.youtube.com/watch?v=R_eP_QTbGdM
+- https://www.youtube.com/watch?v=OB5noyXEv1o
+- https://www.youtube.com/watch?v=1Wl42bEOn8w
+- https://www.youtube.com/watch?v=B-xdfQv3I1k
+- https://www.youtube.com/watch?v=nvfhY_jETh0
+- https://www.youtube.com/watch?v=zuMTR8qN-V0
+
+
+
+
  
 ### How to contribute? 
 
