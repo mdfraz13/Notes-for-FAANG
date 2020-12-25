@@ -104,6 +104,9 @@
 - https://github.com/mister0/How-to-prepare-for-google-interview-SWE-SRE
 - https://github.com/kdeldycke/awesome-engineering-team-management
 - https://github.com/ryanburgess/engineer-manager
+- https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook/
+- https://klauskomenda.net/blog/2020/06/09/how-to-prepare-for-a-software-engineering-manager-interview/
+- https://github.com/jwasham/coding-interview-university
 
  
 ### How to contribute? 
