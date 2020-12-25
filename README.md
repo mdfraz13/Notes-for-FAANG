@@ -40,6 +40,7 @@
  - Progress Sheet: https://docs.google.com/spreadsheets/...
 
  --------------------------------------------------------------------
+ ### Analysis :
  
   <img align="center" src="https://github.com/vaquarkhan/FAANG/blob/master/Algorithms/Resources/Capture.PNG?raw=true" />
 
