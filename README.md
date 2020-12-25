@@ -42,6 +42,8 @@
  --------------------------------------------------------------------
  ### Analysis :
  
+ If you solved only eazy and medium problems then your chance for selection is 70 % to 80 %  .
+ 
   <img align="center" src="https://github.com/vaquarkhan/FAANG/blob/master/Algorithms/Resources/Capture.PNG?raw=true" />
 
   <img align="center" src="https://github.com/vaquarkhan/FAANG/blob/master/Algorithms/Resources/Capture1.PNG?raw=true" />
