@@ -121,6 +121,19 @@
 - https://www.youtube.com/watch?v=zuMTR8qN-V0
 
 
+### Mastering Conflict 
+- https://www.youtube.com/watch?v=Zz8iQ852YMs
+- https://www.youtube.com/watch?v=RPqcnk7ic4A
+- https://www.youtube.com/watch?v=Kqssla8dazc
+- https://www.youtube.com/watch?v=qDfSYz0PX9g
+- https://www.youtube.com/watch?v=kARkOdRHaj8
+- https://www.youtube.com/watch?v=MTOVidv7szY&t=142s
+- https://www.youtube.com/watch?v=UDekZGJ5Y-c
+- https://www.youtube.com/watch?v=HsEJH8t08Q4
+- https://www.youtube.com/watch?v=d2hhLU4lWLc
+
+### Leadership
+
 
 
  
