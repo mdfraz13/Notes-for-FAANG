@@ -113,6 +113,9 @@
 
 ### How to use the STAR method to answer interview questions
 
+  <img align="center" src="https://github.com/vaquarkhan/Notes-for-FAANG/blob/master/Algorithms/Resources/Star.png?raw=true" />
+
+
 - https://www.youtube.com/watch?v=R_eP_QTbGdM
 - https://www.youtube.com/watch?v=OB5noyXEv1o
 - https://www.youtube.com/watch?v=1Wl42bEOn8w
