@@ -14,13 +14,6 @@ Big-O    | Name | Description
 **O(n!)** | factorial | **Intolerably slow.** It literally takes a million years to do anything.  
 
 
-
-<img  src="https://github.com/vaquarkhan/Notes-for-FAANG/blob/master/Algorithms/Resources/BigO2.PNG">
-
-
-<img  src="https://github.com/vaquarkhan/Notes-for-FAANG/blob/master/Algorithms/Resources/BigO3.PNG">
-
-
 ### O(1)
 
        public boolean isFirstNumberEqualToOne(List&lt;Integer&gt; numbers) {
@@ -88,6 +81,12 @@ O(2n) represents a function whose performance doubles for every element in the i
 
 O(log n) represents a function whose complexity increases logarithmically as the input size increases. This makes O(log n) functions scale very well so that the handling of larger inputs is much less likely to cause performance problems.
 
+
+
+<img  src="https://github.com/vaquarkhan/Notes-for-FAANG/blob/master/Algorithms/Resources/BigO2.PNG">
+
+
+<img  src="https://github.com/vaquarkhan/Notes-for-FAANG/blob/master/Algorithms/Resources/BigO3.PNG">
 
 
 <img src="https://github.com/vaquarkhan/Notes-for-FAANG/blob/master/Algorithms/Resources/BigO4.png">
