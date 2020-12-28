@@ -110,7 +110,7 @@
 - https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook/
 - https://klauskomenda.net/blog/2020/06/09/how-to-prepare-for-a-software-engineering-manager-interview/
 - https://github.com/jwasham/coding-interview-university
-
+- https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw
 ### How to use the STAR method to answer interview questions
 
   <img align="center" src="https://github.com/vaquarkhan/Notes-for-FAANG/blob/master/Algorithms/Resources/Star.png?raw=true" />
