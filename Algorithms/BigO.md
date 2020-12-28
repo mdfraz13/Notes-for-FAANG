@@ -21,8 +21,78 @@ Big-O | Name | Description
 <img  src="https://github.com/vaquarkhan/Notes-for-FAANG/blob/master/Algorithms/Resources/BigO3.PNG">
 
 
+### O(1)
+
+       public boolean isFirstNumberEqualToOne(List&lt;Integer&gt; numbers) {
+           return numbers.get(0) == 1;
+        }
+
+O(1) represents a function that always takes the same take regardless of input size.
+
+### O(n)
+
+     public boolean containsNumber(List&lt;Integer&gt; numbers, int comparisonNumber) {
+        for(Integer number : numbers) {
+          if(number == comparisonNumber) {
+            return true;
+          }
+        }
+        return false;
+      }
+
+O(n) represents the complexity of a function that increases linearly and in direct proportion to the number of inputs. This is a good example of how Big O Notation describes the worst case scenario as the function could return the true after reading the first element or false after reading all n elements.
+
+### O(n2)
+
+      public static boolean containsDuplicates(List&lt;String&gt; input) {
+        for (int outer = 0; outer &lt; input.size(); outer++) {
+          for (int inner = 0; inner &lt; input.size(); inner++) {
+            if (outer != inner &amp;&amp; input.get(outer).equals(input.get(inner))) {
+              return true;
+            }
+          }
+        }
+        return false;
+      }
+
+O(n2) represents a function whose complexity is directly proportional to the square of the input size. Adding more nested iterations through the input will increase the complexity which could then represent O(n3) with 3 total iterations and O(n4) with 4 total iterations.
+
+### O(2n)
+
+    public int fibonacci(int number) {
+      if (number &lt;= 1) {
+        return number;
+      } else {
+        return fibonacci(number - 1) + fibonacci(number - 2);
+      }
+    }
+
+O(2n) represents a function whose performance doubles for every element in the input. This example is the recursive calculation of Fibonacci numbers. The function falls under O(2n) as the function recursively calls itself twice for each input number until the number is less than or equal to one.
+
+### O(log n)
+      public boolean containsNumber(List&lt;Integer&gt; numbers, int comparisonNumber) {
+        int low = 0;
+        int high = numbers.size() - 1;
+        while (low &lt;= high) {
+          int middle = low + (high - low) / 2;
+          if (comparisonNumber &lt; numbers.get(middle)) {
+            high = middle - 1;
+          } else if (comparisonNumber &gt; numbers.get(middle)) {
+            low = middle + 1;
+          } else {
+           return true;
+          }
+        }
+        return false;
+      }
+
+O(log n) represents a function whose complexity increases logarithmically as the input size increases. This makes O(log n) functions scale very well so that the handling of larger inputs is much less likely to cause performance problems.
+
+
+
 <img src="https://github.com/vaquarkhan/Notes-for-FAANG/blob/master/Algorithms/Resources/BigO4.png">
 
 
--https://www.bigocheatsheet.com/
+- https://www.bigocheatsheet.com/
 - https://github.com/raywenderlich/swift-algorithm-club/edit/master/Big-O%20Notation.markdown
+- https://dzone.com/articles/learning-big-o-notation-with-on-complexity
