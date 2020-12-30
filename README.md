@@ -8,37 +8,7 @@
  These questions are classical problems that are most frequently asked by the tech giants in technical interviews and are not related to hard core competitive coding.
  `All the code provided inside the repository is purely original and completely my own.`
  
- ### Plan :
  
- - https://www.alimirio.com/posts/read-this-before-you-start-solving-problems-on-leetcode-prep-work
- - https://www.alimirio.com/posts/how-to-solve-problems-on-leetcode-to-prepare-for-technical-interviews
- 
- 
-####  The strategy:
-
-1. Go to a quiet location.
-
-2. Pick a question.
-
-3. Set a timer for 25 minutes.
-
-4. Allocate the first 5 minutes to understand the problem and ask/answer clarifying questions to yourself.
-
-5. Spend the next 20 minutes solving the problem on paper & pen/pencil (until timer rings).
-
-6. Spend the next 10 minutes studying the solution.
-
-7. Stop. Even if you’re in the middle of something important like trying to understand the solution. 
-
-8. Do not spend more than 30–35 minutes per question.
-
-9. Record activity on your progress chart.
-
-10. Revisit the question next week.
-
-
- - Progress Sheet: https://docs.google.com/spreadsheets/...
-
  --------------------------------------------------------------------
  ### Analysis :
  
