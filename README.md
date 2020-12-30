@@ -18,6 +18,9 @@
 
   <img align="center" src="https://github.com/vaquarkhan/FAANG/blob/master/Algorithms/Resources/Capture1.PNG?raw=true" />
   
+  ### Other notes : 
+  - https://github.com/vaquarkhan/leetcode_company_wise_questions/blob/master/README.md
+  
    --------------------------------------------------------------------
 
 
