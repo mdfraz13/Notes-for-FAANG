@@ -98,62 +98,6 @@
 > #### OOPS Design:
 >  - [Design Call Center](https://github.com/neerazz/faang-system-design/blob/master/Neeraj/call-center/CallCenter.java)
 >  - [Design Hit Counter](https://github.com/neerazz/faang-system-design/blob/master/Neeraj/DesignHitCounter.java)
-
-### [Important Links](https://github.com/neerazz/FAANG/blob/master/ImportantLinks.md#hacking-software-engineering-interviews)
-- https://github.com/neerazz/FAANG/blob/master/Algorithms/Top_LeetCode_Questions_By_Topic.md#datastructures--algorithm-problems
-- https://github.com/vaquarkhan/leetcode_company_wise_questions
-- https://github.com/vaquarkhan/system-design-primer/blob/master/solutions/system_design/mint/README.md
-- https://github.com/vaquarkhan/data-structures-algorithms-notes
-- https://github.com/mister0/How-to-prepare-for-google-interview-SWE-SRE
-- https://github.com/kdeldycke/awesome-engineering-team-management
-- https://github.com/ryanburgess/engineer-manager
-- https://www.facebook.com/careers/life/preparing-for-your-software-engineering-interview-at-facebook/
-- https://klauskomenda.net/blog/2020/06/09/how-to-prepare-for-a-software-engineering-manager-interview/
-- https://github.com/jwasham/coding-interview-university
-- https://www.youtube.com/channel/UCZCFT11CWBi3MHNlGf019nw
-- https://github.com/prakashshuklahub/Interview-Questions
-
-### How to use the STAR method to answer interview questions
-
-  <img align="center" src="https://github.com/vaquarkhan/Notes-for-FAANG/blob/master/Algorithms/Resources/Star.png?raw=true" />
-
-
-- https://www.youtube.com/watch?v=R_eP_QTbGdM
-- https://www.youtube.com/watch?v=OB5noyXEv1o
-- https://www.youtube.com/watch?v=1Wl42bEOn8w
-- https://www.youtube.com/watch?v=B-xdfQv3I1k
-- https://www.youtube.com/watch?v=nvfhY_jETh0
-- https://www.youtube.com/watch?v=zuMTR8qN-V0
-
-
-### Mastering Conflict 
-- https://www.youtube.com/watch?v=Zz8iQ852YMs
-- https://www.youtube.com/watch?v=RPqcnk7ic4A
-- https://www.youtube.com/watch?v=Kqssla8dazc
-- https://www.youtube.com/watch?v=qDfSYz0PX9g
-- https://www.youtube.com/watch?v=kARkOdRHaj8
-- https://www.youtube.com/watch?v=MTOVidv7szY&t=142s
-- https://www.youtube.com/watch?v=UDekZGJ5Y-c
-- https://www.youtube.com/watch?v=HsEJH8t08Q4
-- https://www.youtube.com/watch?v=d2hhLU4lWLc
-
-### Leadership
-
-- https://www.youtube.com/watch?v=2Cr3-et4xkI
-- https://www.youtube.com/watch?v=eIMR82oO2Dc
-- https://www.youtube.com/watch?v=_osKgFwKoDQ
-- https://www.youtube.com/watch?v=auojtsHPIM8
-- https://www.youtube.com/watch?v=auojtsHPIM8
-- https://www.youtube.com/watch?v=3DW_U6W8yNs
-- https://www.youtube.com/watch?v=rn7JItdkRPE
-- https://www.youtube.com/watch?v=XZackwz_Shk
-- https://www.youtube.com/watch?v=p6r4cvr_CEo
-- https://www.youtube.com/watch?v=2HYBPKDZda0
-- https://www.youtube.com/watch?v=Ta9tCwcMbXs
-- https://www.youtube.com/watch?v=2P3kLlUxBPE
-- https://www.youtube.com/watch?v=8V2V_2wzBM0
-- https://www.youtube.com/watch?v=mjFZSQWe2E8
-
  
 ### How to contribute? 
 
