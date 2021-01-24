@@ -72,14 +72,38 @@
 >  - [Design Call Center](https://github.com/neerazz/faang-system-design/blob/master/Neeraj/call-center/CallCenter.java)
 >  - [Design Hit Counter](https://github.com/neerazz/faang-system-design/blob/master/Neeraj/DesignHitCounter.java)
  
-### How to contribute? 
+###  
 
-1.  Fork the repository
-2.  Do the desired changes (add/delete/modify)
-3.  Make a pull request
+- https://leetcode.com/problems/product-of-array-except-self/
+- https://leetcode.com/problems/leftmost-column-with-at-least-a-one/
+- https://leetcode.com/problems/employee-free-time/
+- https://www.*.org/lowest-common-ancestor-in-a-binary-tree-set-2-using-parent-pointer/
+- https://leetcode.com/problems/subarray-sum-equals-k/
+- https://leetcode.com/problems/copy-list-with-random-pointer/
+- https://leetcode.com/problems/serialize-and-deserialize-binary-tree/
+- https://leetcode.com/problems/word-break-ii/
+- https://leetcode.com/discuss/interview-question/347374/
+- https://leetcode.com/discuss/interview-question/673575/Facebook-or-Phone-or-Task-Scheduler
+- https://leetcode.com/problems/task-scheduler/
+- https://leetcode.com/problems/target-sum/
+- https://leetcode.com/problems/generate-parentheses/
+- https://leetcode.com/problems/nth-digit/
+- https://leetcode.com/problems/insert-delete-getrandom-o1/
+- https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed/
+- https://leetcode.com/problems/accounts-merge/
+- https://leetcode.com/problems/valid-word-abbreviation/
+- https://leetcode.com/problems/candy-crush/
+- https://leetcode.com/problems/koko-eating-bananas/
+- https://leetcode.com/problems/binary-tree-right-side-view/
+- https://leetcode.com/problems/restore-ip-addresses/
+- https://leetcode.com/problems/powx-n/
+- https://leetcode.com/problems/russian-doll-envelopes/
+- https://leetcode.com/problems/walls-and-gates/
+- https://leetcode.com/problems/best-time-to-buy-and-sell-stock/
+- https://leetcode.com/problems/find-largest-value-in-each-tree-row/
+- https://leetcode.com/problems/add-strings/
+- https://leetcode.com/problems/combination-sum/
+- https://leetcode.com/problems/maximum-swap/
+- https://leetcode.com/discuss/interview-question/124823/
+- https://leetcode.com/problems/random-pick-with-weight/
 
-### When to contribute?
-
-1.  If there is no solution to a problem.
-2.  If your solution is asymptotically faster than the one in the main branch.
-3.  If your algorithm is of the same time complexity but with reduced code size it would be better to, comment out the original solution and make a pull request with your solution.
