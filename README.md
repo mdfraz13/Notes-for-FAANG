@@ -73,7 +73,7 @@
 >  - [Design Hit Counter](https://github.com/neerazz/faang-system-design/blob/master/Neeraj/DesignHitCounter.java)
  
 ###  
-
+- https://medium.com/@mehulchaturvedi/interview-preparation-roadmap-that-got-me-into-amazon-d357049a0a68
 - https://leetcode.com/problems/product-of-array-except-self/
 - https://leetcode.com/problems/leftmost-column-with-at-least-a-one/
 - https://leetcode.com/problems/employee-free-time/
